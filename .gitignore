@@ -214,6 +214,9 @@ UpgradeLog*.htm
 *.mdf
 *.ldf
 
+# SQL Lite files
+*.DB
+
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
